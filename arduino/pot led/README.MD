@@ -67,9 +67,8 @@ void loop() {
 
 Add your circuit image file in the repository and reference it like this:
 
-```markdown
+
 ![Circuit Diagram](pot_led.png)
-```
 
 ---
 
